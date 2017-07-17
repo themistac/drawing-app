@@ -1,0 +1,14 @@
+* {	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	font-family:sans-serif;
+}
+
+#toolbar {
+	width:100%;
+	height:50px;
+	padding:10px;
+	position:fixed;
+	top:0;
+	background-color:#444;
+	color:#fff;
+}
