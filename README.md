@@ -1,2 +1,2 @@
-# drawing-app
-Drawing app
+# Drawing app
+JavaScript drawing application
